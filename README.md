@@ -4,9 +4,9 @@ As a new Golang lover and a spotify user, this API provided. It is just the begi
 
 What is done
 ------------
-1. Error Handling
-2.Pagination
-3. Analyzing & getting the winner tracks!
+1.Error Handling<br/>
+2.Pagination<br/>
+3.Analyzing & getting the winner tracks!<br />
 
 About Next steps..
 ------------------
